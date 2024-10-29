@@ -8,12 +8,12 @@
 
 |      Id     	|           Name           	|       Co-hort      	| Status 	|                    Github                    	|
 |:-----------:	|:------------------------:	|:------------------:	|:------:	|:--------------------------------------------:	|
-| M296BSX0882 	|    Muhammad Rafli Fauzi   	|  Machine Learning  	| Active 	| - 	                                        |
-| M318BSX0523 	|    Angger Haryo Putranto    |  Machine Learning  	| Active 	|    -   	                                    |
-| M318BSY0226 	|  Muhammad Rivaditya Azzaka  |  Machine Learning  	| Active 	|       -      	                              |
-| C296BSY3712 	|   Muhammad Rizki Nugraha    |   Cloud Computing  	| Active 	|     [Link](https://github.com/rizkingrh)    |
-| C296BSX3762 	|     Muhammad Isa Amsory 	  |   Cloud Computing  	| Active 	|   [Link](https://github.com/1saory)  	      |
-| A318BSY2384 	|       Wahid Hidayat         | Mobile Development 	| Active 	|   -   	                                    |
-| A491BSY2263 	|     Muhammad Nafis Hafi     | Mobile Development 	| Active 	|     -     	                                |
+| M318B4KY3003 	|    Muhammad Rafli Fauzi   	|  Machine Learning  	| Active 	| - 	                                        |
+| M283B4KY0550 	|    Angger Haryo Putranto    |  Machine Learning  	| Active 	|    -   	                                    |
+| M012B4KY3048 	|  Muhammad Rivaditya Azzaka  |  Machine Learning  	| Active 	|       -      	                              |
+| C318B4KY3059	|   Muhammad Rizki Nugraha    |   Cloud Computing  	| Active 	|     [Link](https://github.com/rizkingrh)    |
+| C288B4KY2917	|     Muhammad Isa Amsory 	  |   Cloud Computing  	| Active 	|   [Link](https://github.com/1saory)  	      |
+| A283B4KY4449	|       Wahid Hidayat         | Mobile Development 	| Active 	|   -   	                                    |
+| A283B4KY2954	|     Muhammad Nafis Hafi     | Mobile Development 	| Active 	|     -     	                                |
 
 </div>
