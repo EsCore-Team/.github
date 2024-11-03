@@ -1,6 +1,11 @@
-# Testing 123
+<h1 align="left">EsCore - Essay Gacor 🙌</h1>
 
-### Hello 🙌
+
+<h3>Project Overview</h3>
+
+<p align="justify">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Amet dolor omnis enim perferendis molestias cumque expedita quidem eligendi, illum quasi perspiciatis sed. Nemo adipisci at commodi architecto, culpa consequatur possimus explicabo quis hic. Eum blanditiis deleniti odit, earum iste autem accusantium at quis veritatis qui, voluptatibus enim ea natus officia?</p>
+
+<p align="justify">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Temporibus, sapiente corporis vero amet obcaecati voluptatem, magnam ad ducimus inventore repellendus beatae saepe eius aliquid voluptatibus sequi et provident ut dignissimos modi ratione nobis excepturi, iste nam. Facilis tempora esse eum repudiandae, illum reprehenderit provident consectetur quas beatae ipsa unde. Earum.</p>
 
 <h2 align="center">✨ Our Team ✨</h2>
 
@@ -12,13 +17,11 @@
 | M283B4KY0550 	|    Angger Haryo Putranto    |  Machine Learning  	 	|    -   	                                    |
 | M012B4KY3048 	|  Muhammad Rivaditya Azzaka  |  Machine Learning  	 	|       -      	                              |
 | C318B4KY3059	|   Muhammad Rizki Nugraha    |   Cloud Computing  	 	|     [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="20" height="20"/>](https://github.com/rizkingrh) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20"/>](https://linkedin.com/in/rizkingrh)    |
-| C288B4KY2917	|     Muhammad Isa Amsory 	  |   Cloud Computing  	 	|   [Link](https://github.com/1saory)  	      |
+| C288B4KY2917	|     Muhammad Isa Amsory 	  |   Cloud Computing  	 	|   [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="20" height="20"/>](https://github.com/1saory) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20"/>](https://linkedin.com/in/rizkingrh) 	      |
 | A283B4KY4449	|       Wahid Hidayat         | Mobile Development 	 	|   -   	                                    |
 | A283B4KY2954	|     Muhammad Nafis Hafi     | Mobile Development 	 	|     -     	                                |
 
 </div>
 
-### Testing
+<h2 align="center">⚙️ Tech Stack ⚙️</h2>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
