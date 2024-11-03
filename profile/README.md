@@ -2,7 +2,7 @@
 
 ### Hello 🙌
 
-<h2 align="center">Our Team 🎉</h2>
+<h2 align="center">✨ Our Team ✨</h2>
 
 <div align="center">
 
