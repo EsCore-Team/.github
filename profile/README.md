@@ -1,4 +1,4 @@
-<h1 align="left">EsCore - Essay Gacor 🙌</h1>
+<h1 align="left">EsCore - Essay Scoring 🙌</h1>
 
 
 <h3>Project Overview</h3>
