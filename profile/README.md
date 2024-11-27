@@ -3,9 +3,17 @@
 
 <h3>Project Overview</h3>
 
-<p align="justify">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Amet dolor omnis enim perferendis molestias cumque expedita quidem eligendi, illum quasi perspiciatis sed. Nemo adipisci at commodi architecto, culpa consequatur possimus explicabo quis hic. Eum blanditiis deleniti odit, earum iste autem accusantium at quis veritatis qui, voluptatibus enim ea natus officia?</p>
+<p align="justify">Our Problem Statement centers on the ineciency and subjectivity in manual grading of
+essay responses, which aects grading accuracy and turnaround time, especially in
+contexts with large student populations. We aim to address questions such as: How can AI
+be used to enhance the objectivity and eciency of essay assessments? and What are the
+implications of automated grading on academic integrity and fairness?</p>
 
-<p align="justify">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Temporibus, sapiente corporis vero amet obcaecati voluptatem, magnam ad ducimus inventore repellendus beatae saepe eius aliquid voluptatibus sequi et provident ut dignissimos modi ratione nobis excepturi, iste nam. Facilis tempora esse eum repudiandae, illum reprehenderit provident consectetur quas beatae ipsa unde. Earum.</p>
+<p align="justify">With this project, our goal is to create a reliable AES tool that oers faster, objective, and
+cost-eective scoring, enhancing both grading accuracy and feedback quality. This
+solution, acting as a "painkiller," addresses the pressing need for a streamlined assessment
+process, ultimately supporting educators in making unbiased, timely decisions regarding
+student performance</p>
 
 <h2 align="center">✨ Our Team ✨</h2>
 
