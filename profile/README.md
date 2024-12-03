@@ -3,17 +3,10 @@
 
 <h3>Project Overview</h3>
 
-<p align="justify">Our Problem Statement centers on the ineciency and subjectivity in manual grading of
-essay responses, which aects grading accuracy and turnaround time, especially in
-contexts with large student populations. We aim to address questions such as: How can AI
-be used to enhance the objectivity and eciency of essay assessments? and What are the
-implications of automated grading on academic integrity and fairness?</p>
+<p align="justify">
+EsCore is an innovative mobile application that uses Machine Learning technology to provide automated essay scoring. The app analyzes essays based on structure, grammar, relevance, and the quality of arguments, offering faster, more objective, and accurate assessments compared to traditional manual grading. By reducing bias and increasing efficiency in grading, EsCore allows educators to assess large student populations easily. It not only saves time but also provides more detailed and useful feedback for students, improving their learning outcomes</p>
 
-<p align="justify">With this project, our goal is to create a reliable AES tool that oers faster, objective, and
-cost-eective scoring, enhancing both grading accuracy and feedback quality. This
-solution, acting as a "painkiller," addresses the pressing need for a streamlined assessment
-process, ultimately supporting educators in making unbiased, timely decisions regarding
-student performance</p>
+<p align="justify">This project aims to bridge the gap between traditional educational systems and AI-based innovations. EsCore offers an affordable and scalable assessment solution, helping educators make faster and more accurate decisions regarding student performance</p>
 
 <h2 align="center">✨ Our Team ✨</h2>
 
