@@ -24,5 +24,60 @@ EsCore is an innovative mobile application that uses Machine Learning technology
 
 </div>
 
+
 <h2 align="center">⚙️ Tech Stack ⚙️</h2>
+
+<h3 align="center">Machine Learning</h3>
+
+<div align="center">
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  </a>
+  <img width="10" />
+  <a href="https://www.jupyter.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  </a>
+  <img width="12" />
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  </a>
+</div>
+
+###
+
+<h3 align="center">Cloud Computing</h3>
+
+<div align="center">
+  <a href="https://cloud.google.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+  </a>
+  <img width="10" />
+  <a href="https://www.javascript.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="js logo"  />
+  </a>
+  <img width="10" />
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="pyhton logo"  />
+  </a>
+</div>
+
+###
+
+<h3 align="center">Mobile Development</h3>
+
+<div align="center">
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
+  </a>
+  <img width="10" />
+  <a href="https://developer.android.com/studio" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo" />
+  </a>
+  <img width="10" />
+  <a href="https://kotlinlang.org/" target="_blank" width="10">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo" />
+  </a>
+</div>
+
+###
 
