@@ -83,7 +83,28 @@ EsCore is an innovative mobile application that uses Machine Learning technology
 
 <h2>Concept Overview</h2>
 
-**Cloud Architecture**
+**Machine Learning Model:**
+
+<div align="center">
+  <img src="https://github.com/EsCore-Team/.github/blob/5a9ca51950e64f70db5f9452db0dfaa3f970b6f3/assets/mae.jpg" width=700 />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github.com/EsCore-Team/.github/blob/5a9ca51950e64f70db5f9452db0dfaa3f970b6f3/assets/loss.jpg" width=700 />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github.com/EsCore-Team/.github/blob/5a9ca51950e64f70db5f9452db0dfaa3f970b6f3/assets/qwk.jpg" width=700 />
+</div>
+
+
+<hr>
+
+**Cloud Architecture:**
 
 <div align="center">
   <img src="https://github.com/EsCore-Team/.github/blob/269c661d8130e4be78608007e6557de568f721c2/assets/cloud-architecture.png" width=700 />
@@ -91,7 +112,7 @@ EsCore is an innovative mobile application that uses Machine Learning technology
 
 <br>
 
-**API Documentation**
+**API Documentation:**
 ```
 https://escore-app.et.r.appspot.com/api-docs/
 ``` 
