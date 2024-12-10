@@ -8,6 +8,15 @@ EsCore is an innovative mobile application that uses Machine Learning technology
 
 <p align="justify">This project aims to bridge the gap between traditional educational systems and AI-based innovations. EsCore offers an affordable and scalable assessment solution, helping educators make faster and more accurate decisions regarding student performance</p>
 
+<h3>Project Result</h3>
+
+<p align="justify">This project was created and developed by the Bangkit Academy 2024 capstone team with group id C242-PS179.
+Thanks to all the teams involved for their hard work to complete this projet, here are the results of our project. </p>
+
+<div align="center">
+  <img src="https://github.com/EsCore-Team/.github/blob/774c0adc41bbe244027e4164e6776fb68cde7514/assets/app-result.png" width=700 />
+</div>
+
 <h2 align="center">✨ Our Team ✨</h2>
 
 <div align="center">
