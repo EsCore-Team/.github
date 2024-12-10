@@ -100,7 +100,6 @@ Thanks to all the teams involved for their hard work to complete this projet, he
   <img src="https://github.com/EsCore-Team/.github/blob/5a9ca51950e64f70db5f9452db0dfaa3f970b6f3/assets/qwk.jpg" width=400 />
 </div>
 
-<br>
 <hr>
 
 **Cloud Architecture:**
