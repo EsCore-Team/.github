@@ -14,7 +14,7 @@ EsCore is an innovative mobile application that uses Machine Learning technology
 Thanks to all the teams involved for their hard work to complete this projet, here are the results of our project. </p>
 
 <div align="center">
-  <img src="https://github.com/EsCore-Team/.github/blob/774c0adc41bbe244027e4164e6776fb68cde7514/assets/app-result.png" width=700 />
+  <img src="https://github.com/EsCore-Team/.github/blob/c494a80166aa8cec805d105c89f59189c033f223/assets/app-result.png" width=700 />
 </div>
 
 <h2 align="center">✨ Our Team ✨</h2>
@@ -95,22 +95,12 @@ Thanks to all the teams involved for their hard work to complete this projet, he
 **Machine Learning Model:**
 
 <div align="center">
-  <img src="https://github.com/EsCore-Team/.github/blob/5a9ca51950e64f70db5f9452db0dfaa3f970b6f3/assets/mae.jpg" width=500 />
+  <img src="https://github.com/EsCore-Team/.github/blob/5a9ca51950e64f70db5f9452db0dfaa3f970b6f3/assets/mae.jpg" width=400 />
+  <img src="https://github.com/EsCore-Team/.github/blob/5a9ca51950e64f70db5f9452db0dfaa3f970b6f3/assets/loss.jpg" width=400 />
+  <img src="https://github.com/EsCore-Team/.github/blob/5a9ca51950e64f70db5f9452db0dfaa3f970b6f3/assets/qwk.jpg" width=400 />
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://github.com/EsCore-Team/.github/blob/5a9ca51950e64f70db5f9452db0dfaa3f970b6f3/assets/loss.jpg" width=500 />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github.com/EsCore-Team/.github/blob/5a9ca51950e64f70db5f9452db0dfaa3f970b6f3/assets/qwk.jpg" width=500 />
-</div>
-
-
 <hr>
 
 **Cloud Architecture:**
